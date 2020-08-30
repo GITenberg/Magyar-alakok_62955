@@ -1,0 +1,36 @@
+_repo: Magyar-alakok_62955
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Eötvös, Károly
+    alias: Eotvos, Karoly
+    birthdate: 1842
+    deathdate: 1916
+    gutenberg_agent_id: '52119'
+    url: http://www.gutenberg.org/2009/agents/52119
+    wikipedia: https://hu.wikipedia.org/wiki/E%C3%B6tv%C3%B6s_K%C3%A1roly
+description: ''
+gutenberg_issued: '2020-08-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62955'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hungary -- Biography'
+- !lcc 'DB'
+- GITenberg
+tableOfContents: A kis Mariska (1901) -- Gubody Sándor (1885) -- Szlávy Józsefről
+  (1900) -- Molnár Aladár (1881) -- Révész Imre haragja (1881) -- Szende Béla (1882)
+  -- Löw Tóbiás (1880) -- Ugron Lázár (1884) -- Simonyi Ernő (1882) -- Szitányi Bernát
+  halálára (1889) -- Emlékezés Csengeryre (1880) -- Tarczy Lajos (1881) -- Csernátony
+  halálakor (1901) -- Neszmélyi Artur nyugszik (1899) -- A lasztóczi magányban (1881)
+  -- Csemegi Károlyról (1899) -- Bittó István a főrendiházban (1899) -- A legöregebb
+  táblabiró (1885) -- Szabó Imre (1881) -- Békássy Lajos (1880) -- Báró Kemény István
+  (1881) -- Zsedényi Eduárd (1879) -- Gorove István (1881) -- Náray Imre (1882) --
+  Perczel Móriczról (1899) -- Madarász Józsefről (1899) -- Kászonyi Dániel (1886)
+  -- A szúdi remete (1885) -- Táncsicsnál (1884) -- A csonka hős (1886).
+title: Magyar alakok
+url: http://www.gutenberg.org/ebooks/62955
